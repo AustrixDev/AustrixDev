@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Bachelor of Science Thesis<br>🌱 I’m currently learning Ansible<br>💬 Ask me about all technical topics<br>⚡ Fun fact:
+🎓 Bachelor of Science - Computer Science<br>🌱 I’m currently learning Ansible<br>💬 Ask me about all technical topics<br>⚡ Fun fact:
 
 
 ## 🌐 Socials:
